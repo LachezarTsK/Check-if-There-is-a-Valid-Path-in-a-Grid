@@ -74,7 +74,7 @@ public class Solution {
     }
 
     /*
-      If the path on start point is of type UP_RIGHT, then the queue will be initialized
+      If the path on the start point is of type UP_RIGHT, then the queue will be initialized
       with to start points: one with direction DOWN and one with direction RIGHT.
      */
     private void initializeQueueWithStartPoint(Queue<Point> queue) {
